@@ -1,0 +1,12 @@
+{
+  "name": "Getqr",
+  "description": "Web-based QR code generator.",
+  "keywords": [
+    "small",
+    "sharp",
+    "tool"
+  ],
+  "repository": "https://github.com/nowbusking/getqr",
+  "addons": [],
+  "env": {}
+}
